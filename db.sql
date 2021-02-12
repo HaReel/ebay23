@@ -3,3 +3,4 @@ mySQL databases
 H2DB databases
 MongoDB
 TSDB=dev
+Cassandra=hotfix

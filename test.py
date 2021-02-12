@@ -1,0 +1,2 @@
+x = 'learning'
+print (x)
